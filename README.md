@@ -38,6 +38,10 @@ Database: [MySQL](https://www.mysql.com)
 
 ![TelaConsulta](https://user-images.githubusercontent.com/98247859/172670696-bdb3532b-2562-4bd3-a9ce-1c7188bb99e4.png)
 
+### Diagrama
+
+![modelo](https://user-images.githubusercontent.com/98247859/172702549-1e09e9f0-be9e-4ce2-a968-3100dd6becfe.png)
+
 
 ## 💻 Funcionamento
 
