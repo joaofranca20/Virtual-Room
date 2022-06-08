@@ -38,6 +38,14 @@ Database: [MySQL](https://www.mysql.com)
 
 ![TelaConsulta](https://user-images.githubusercontent.com/98247859/172670696-bdb3532b-2562-4bd3-a9ce-1c7188bb99e4.png)
 
+
+## 💻 Funcionamento
+
+
+https://github.com/joaofranca20/Virtual-Room/issues/2#issue-1265192057
+
+
+
 ## ✒️ Autores
 
 [João Guilherme França](https://www.linkedin.com/in/joão-castro-429a6917a/)
