@@ -11,9 +11,9 @@ O Virtual Room é um projeto de aplicativo de chamadas, sendo direcionado princi
 
 Para a construção deste projeto foram usados:
 
-IDE: NetBeans - (https://netbeans.apache.org)
+IDE: [NetBeans](https://netbeans.apache.org)
 
-Database: MySQL - (https://www.mysql.com)
+Database: [MySQL](https://www.mysql.com)
 
 ### Telas relacionadas ao CRUD
 
@@ -38,11 +38,11 @@ Database: MySQL - (https://www.mysql.com)
 
 ![TelaConsulta](https://user-images.githubusercontent.com/98247859/172670696-bdb3532b-2562-4bd3-a9ce-1c7188bb99e4.png)
 
-## Authors
+## Autores
 
-Contributors names and contact info
+[João Guilherme França](https://www.linkedin.com/in/joão-castro-429a6917a/)
 
-João Guilherme França - (https://www.linkedin.com/in/joão-castro-429a6917a/)
-João Guilherme Galli - ()
+
+João Guilherme Galli 
 
 
