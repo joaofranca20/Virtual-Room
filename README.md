@@ -41,9 +41,7 @@ Database: [MySQL](https://www.mysql.com)
 
 ## 💻 Funcionamento
 
-
 https://github.com/joaofranca20/Virtual-Room/issues/2#issue-1265192057
-
 
 
 ## ✒️ Autores
