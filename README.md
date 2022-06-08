@@ -3,11 +3,11 @@
 
 Projeto desenvolvido durante o 2°SEM de ADS pela FACENS. Em Java, para as matérias de Fábrica de Projetos, Engenharia de Software e Linguagens de Programação.
 
-## Sobre o projeto
+## 📋 Sobre o projeto
 
 O Virtual Room é um projeto de aplicativo de chamadas, sendo direcionado principalmente para networking, com chats de voz e de texto.
 
-### Desenvolvimento
+### 🛠️ Desenvolvimento
 
 Para a construção deste projeto foram usados:
 
@@ -15,7 +15,7 @@ IDE: [NetBeans](https://netbeans.apache.org)
 
 Database: [MySQL](https://www.mysql.com)
 
-### Telas relacionadas ao CRUD
+### 💻 Telas relacionadas ao CRUD
 
 * Demonstração de algumas telas do projeto até o momento.
 
@@ -38,7 +38,7 @@ Database: [MySQL](https://www.mysql.com)
 
 ![TelaConsulta](https://user-images.githubusercontent.com/98247859/172670696-bdb3532b-2562-4bd3-a9ce-1c7188bb99e4.png)
 
-## Autores
+## ✒️ Autores
 
 [João Guilherme França](https://www.linkedin.com/in/joão-castro-429a6917a/)
 
