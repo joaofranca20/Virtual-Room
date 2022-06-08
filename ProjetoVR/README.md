@@ -43,6 +43,6 @@ Database: [MySQL](https://www.mysql.com)
 [João Guilherme França](https://www.linkedin.com/in/joão-castro-429a6917a/)
 
 
-João Guilherme Galli 
+[João Guilherme Galli](https://www.linkedin.com/in/jo%C3%A3o-galli-8aa04822b) 
 
 
